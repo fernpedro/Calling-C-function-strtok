@@ -1,4 +1,4 @@
-# Calling to the standard C function strtok.c
+# Calling to C standard function strtok()
 
 In this example, strtok() breaks the string, separated by delimeters ",", into tokens.
 
